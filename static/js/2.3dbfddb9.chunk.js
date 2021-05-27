@@ -372,7 +372,7 @@ var UIManager_getRect=function getRect(node){var _getBoundingClientRec=Object(ge
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
-var Platform={OS:'web',select:function select(obj){return'web'in obj?obj.web:obj.default;},get isTesting(){if(Object({"NODE_ENV":"production","PUBLIC_URL":"","APP_MANIFEST":{"name":"InventedSpellingApp","slug":"InventedSpellingApp","version":"1.0.0","assetBundlePatterns":["**/*"],"_internal":{"isDebug":false,"projectRoot":"/home/danny/Projects/InventedSpelling","dynamicConfigPath":null,"staticConfigPath":"/home/danny/Projects/InventedSpelling/app.json","packageJsonPath":"/home/danny/Projects/InventedSpelling/package.json"},"sdkVersion":"41.0.0","platforms":["ios","android","web"],"web":{}}}).NODE_DEV==='test'){return true;}return false;}};/* harmony default export */ __webpack_exports__["a"] = (Platform);
+var Platform={OS:'web',select:function select(obj){return'web'in obj?obj.web:obj.default;},get isTesting(){if(Object({"NODE_ENV":"production","PUBLIC_URL":"https://dannyweitekamp.github.io/InventedSpellingRelease/","APP_MANIFEST":{"name":"InventedSpellingApp","slug":"InventedSpellingApp","version":"1.0.0","assetBundlePatterns":["**/*"],"_internal":{"isDebug":false,"projectRoot":"/home/danny/Projects/InventedSpelling","dynamicConfigPath":null,"staticConfigPath":"/home/danny/Projects/InventedSpelling/app.json","packageJsonPath":"/home/danny/Projects/InventedSpelling/package.json"},"sdkVersion":"41.0.0","platforms":["ios","android","web"],"web":{}}}).NODE_DEV==='test'){return true;}return false;}};/* harmony default export */ __webpack_exports__["a"] = (Platform);
 
 /***/ }),
 /* 16 */
