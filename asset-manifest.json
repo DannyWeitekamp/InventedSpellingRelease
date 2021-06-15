@@ -1,11 +1,11 @@
 {
   "files": {
-    "app.js": "/InventedSpellingRelease/static/js/app.2e28c6d0.chunk.js",
-    "app.js.map": "/InventedSpellingRelease/static/js/app.2e28c6d0.chunk.js.map",
+    "app.js": "/InventedSpellingRelease/static/js/app.bb89c420.chunk.js",
+    "app.js.map": "/InventedSpellingRelease/static/js/app.bb89c420.chunk.js.map",
     "runtime~app.js": "/InventedSpellingRelease/static/js/runtime~app.bb6d8d1b.js",
     "runtime~app.js.map": "/InventedSpellingRelease/static/js/runtime~app.bb6d8d1b.js.map",
-    "static/js/2.b3a273f5.chunk.js": "/InventedSpellingRelease/static/js/2.b3a273f5.chunk.js",
-    "static/js/2.b3a273f5.chunk.js.map": "/InventedSpellingRelease/static/js/2.b3a273f5.chunk.js.map",
+    "static/js/2.5b17665a.chunk.js": "/InventedSpellingRelease/static/js/2.5b17665a.chunk.js",
+    "static/js/2.5b17665a.chunk.js.map": "/InventedSpellingRelease/static/js/2.5b17665a.chunk.js.map",
     "index.html": "/InventedSpellingRelease/index.html",
     "manifest.json": "/InventedSpellingRelease/manifest.json",
     "serve.json": "/InventedSpellingRelease/serve.json",
@@ -58,6 +58,7 @@
     "static/media/Y.mp3": "/InventedSpellingRelease/static/media/Y.f4def0b5.mp3",
     "static/media/Z.mp3": "/InventedSpellingRelease/static/media/Z.b1d71ec7.mp3",
     "static/media/ZH.mp3": "/InventedSpellingRelease/static/media/ZH.c6a3dcc2.mp3",
+    "static/media/again.mp3": "/InventedSpellingRelease/static/media/again.90d885fc.mp3",
     "static/media/ape.mp3": "/InventedSpellingRelease/static/media/ape.15bda667.mp3",
     "static/media/ape.png": "/InventedSpellingRelease/static/media/ape.3ad8e90e.png",
     "static/media/ape_slow.mp3": "/InventedSpellingRelease/static/media/ape_slow.56207823.mp3",
@@ -81,6 +82,7 @@
     "static/media/eel.png": "/InventedSpellingRelease/static/media/eel.33593521.png",
     "static/media/eel.mp3": "/InventedSpellingRelease/static/media/eel.8f2d72d9.mp3",
     "static/media/eel_slow.mp3": "/InventedSpellingRelease/static/media/eel_slow.ba394c34.mp3",
+    "static/media/go_ahead_try_some_letters.mp3": "/InventedSpellingRelease/static/media/go_ahead_try_some_letters.eab6e1fa.mp3",
     "static/media/great_job.mp3": "/InventedSpellingRelease/static/media/great_job.14306ee0.mp3",
     "static/media/is_the_correct_spelling_for.mp3": "/InventedSpellingRelease/static/media/is_the_correct_spelling_for.dc76b78a.mp3",
     "static/media/lap.mp3": "/InventedSpellingRelease/static/media/lap.1d9044c9.mp3",
@@ -89,6 +91,7 @@
     "static/media/lets_make_your_spelling_a_little_closer_to.mp3": "/InventedSpellingRelease/static/media/lets_make_your_spelling_a_little_closer_to.e7c84a3f.mp3",
     "static/media/lets_sound_out_what_you_spelled.mp3": "/InventedSpellingRelease/static/media/lets_sound_out_what_you_spelled.55960475.mp3",
     "static/media/lets_spell.mp3": "/InventedSpellingRelease/static/media/lets_spell.d9e69e65.mp3",
+    "static/media/lets_try_spelling.mp3": "/InventedSpellingRelease/static/media/lets_try_spelling.c72f80d2.mp3",
     "static/media/lid.mp3": "/InventedSpellingRelease/static/media/lid.87c7a4b6.mp3",
     "static/media/lid.png": "/InventedSpellingRelease/static/media/lid.c4fd7068.png",
     "static/media/lid_slow.mp3": "/InventedSpellingRelease/static/media/lid_slow.32411867.mp3",
@@ -123,6 +126,7 @@
     "static/media/rat.png": "/InventedSpellingRelease/static/media/rat.0a6381a0.png",
     "static/media/rat.mp3": "/InventedSpellingRelease/static/media/rat.bd62daa1.mp3",
     "static/media/rat_slow.mp3": "/InventedSpellingRelease/static/media/rat_slow.95a015d5.mp3",
+    "static/media/remember_your_spelling_doesn.t_need_to_be_perfect_just_try_something_out.mp3": "/InventedSpellingRelease/static/media/remember_your_spelling_doesn.t_need_to_be_perfect_just_try_something_out.461be82c.mp3",
     "static/media/rip.jpeg": "/InventedSpellingRelease/static/media/rip.212bb997.jpeg",
     "static/media/rip.mp3": "/InventedSpellingRelease/static/media/rip.d73ab923.mp3",
     "static/media/rip_slow.mp3": "/InventedSpellingRelease/static/media/rip_slow.d60262fd.mp3",
@@ -167,6 +171,7 @@
     "static/media/toe.mp3": "/InventedSpellingRelease/static/media/toe.0a8270ae.mp3",
     "static/media/toe.png": "/InventedSpellingRelease/static/media/toe.1e40a14b.png",
     "static/media/toe_slow.mp3": "/InventedSpellingRelease/static/media/toe_slow.b871e4b5.mp3",
+    "static/media/try_out_dragging_some_letters.mp3": "/InventedSpellingRelease/static/media/try_out_dragging_some_letters.ca74b7d7.mp3",
     "static/media/we.ll_add.mp3": "/InventedSpellingRelease/static/media/we.ll_add.de835ba1.mp3",
     "static/media/we.ll_replace.mp3": "/InventedSpellingRelease/static/media/we.ll_replace.e590b161.mp3",
     "static/media/we.ll_take_away.mp3": "/InventedSpellingRelease/static/media/we.ll_take_away.d8f40b30.mp3",
@@ -175,7 +180,7 @@
   },
   "entrypoints": [
     "static/js/runtime~app.bb6d8d1b.js",
-    "static/js/2.b3a273f5.chunk.js",
-    "static/js/app.2e28c6d0.chunk.js"
+    "static/js/2.5b17665a.chunk.js",
+    "static/js/app.bb89c420.chunk.js"
   ]
 }
