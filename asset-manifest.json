@@ -1,15 +1,15 @@
 {
   "files": {
-    "app.js": "/InventedSpellingRelease/static/js/app.5a90b5cf.chunk.js",
-    "app.js.map": "/InventedSpellingRelease/static/js/app.5a90b5cf.chunk.js.map",
+    "app.js": "/InventedSpellingRelease/static/js/app.0ffabb31.chunk.js",
+    "app.js.map": "/InventedSpellingRelease/static/js/app.0ffabb31.chunk.js.map",
     "runtime~app.js": "/InventedSpellingRelease/static/js/runtime~app.1c6263c2.js",
     "runtime~app.js.map": "/InventedSpellingRelease/static/js/runtime~app.1c6263c2.js.map",
-    "static/js/2.a24d8d95.chunk.js": "/InventedSpellingRelease/static/js/2.a24d8d95.chunk.js",
-    "static/js/2.a24d8d95.chunk.js.map": "/InventedSpellingRelease/static/js/2.a24d8d95.chunk.js.map",
+    "static/js/2.dc93d809.chunk.js": "/InventedSpellingRelease/static/js/2.dc93d809.chunk.js",
+    "static/js/2.dc93d809.chunk.js.map": "/InventedSpellingRelease/static/js/2.dc93d809.chunk.js.map",
     "index.html": "/InventedSpellingRelease/index.html",
     "manifest.json": "/InventedSpellingRelease/manifest.json",
     "serve.json": "/InventedSpellingRelease/serve.json",
-    "static/js/2.a24d8d95.chunk.js.LICENSE.txt": "/InventedSpellingRelease/static/js/2.a24d8d95.chunk.js.LICENSE.txt",
+    "static/js/2.dc93d809.chunk.js.LICENSE.txt": "/InventedSpellingRelease/static/js/2.dc93d809.chunk.js.LICENSE.txt",
     "static/media/A.mp3": "/InventedSpellingRelease/static/media/A.dcd10789.mp3",
     "static/media/AA.mp3": "/InventedSpellingRelease/static/media/AA.99d12433.mp3",
     "static/media/AE.mp3": "/InventedSpellingRelease/static/media/AE.db28db8d.mp3",
@@ -1413,7 +1413,7 @@
   },
   "entrypoints": [
     "static/js/runtime~app.1c6263c2.js",
-    "static/js/2.a24d8d95.chunk.js",
-    "static/js/app.5a90b5cf.chunk.js"
+    "static/js/2.dc93d809.chunk.js",
+    "static/js/app.0ffabb31.chunk.js"
   ]
 }
